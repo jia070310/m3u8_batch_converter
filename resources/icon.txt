@@ -1,0 +1,1 @@
+resources文件夹内放入ffmpeg.exe 和icon.ico图标文件（名称不能改变）
